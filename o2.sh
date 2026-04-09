@@ -11,6 +11,7 @@ requires:
   - Common-O2
   - Configuration
   - Monitoring
+  - Tracing
   - ms_gsl
   - FairMQ
   - curl
